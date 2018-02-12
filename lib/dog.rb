@@ -5,6 +5,5 @@ class Dog
 
   def initialize(breed)
     @breed = breed
-  else puts "Mutt"
   end
 end
